@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BaskaryaApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="error">Kolom tidak boleh kosong</string>
+    <string name="error_email">Email tidak sesuai dengan format</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karakter</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="batikpedia">Batikpedia</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Gallery</string>
+    <string name="scan">Scan</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="search_desc">Search by description</string>
+    <string name="more">More</string>
+    <string name="newest">Newest Article</string>
+
+    <string name="title_text">Ini judul</string>
+    <string name="description_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean volutpat tempor odio sit amet placerat. Proin id ante sit amet lorem pellentesque condimentum sed eget sapien. Praesent ut lobortis quam, vitae faucibus urna. Suspendisse bibendum aliquam arcu. Aenean suscipit rhoncus tortor, quis egestas quam malesuada et. Sed turpis leo, dignissim nec auctor eu, euismod at mauris. Aenean sodales erat a commodo pharetra. Sed ac nisi erat. Mauris at neque id nunc aliquet ultrices a et enim. Donec ut sagittis dolor. Aliquam gravida lorem eu ullamcorper consequat. Sed id tellus vel velit cursus hendrerit. Duis quis massa a elit aliquet sollicitudin. Donec laoreet nulla sit amet augue aliquam imperdiet sit amet sed justo. Donec nulla massa, dignissim id nulla vitae, scelerisque gravida ligula. Etiam imperdiet, lacus sodales tempus consequat, diam diam suscipit odio, eu bibendum ligula ipsum ac felis.</string>
+    <string name="detail_batik">Detail Batik</string>
+    <string name="tv_item_sub_title">Ini sub judul</string>
+    <string name="articles">Articles</string>
+
+    <string name="already_have_an_accont">Already have an accont? </string>
+    <string name="dont_have_an_account">Don\'t have an account? </string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="uname">Username</string>
+    <string name="recomendation">Recomendation</string>
+    <string name="result">Results</string>
+    <string name="notes">Notes</string>
+    <string name="isinote">Click the batik result card to the next customization page</string>
+    <string name="batik">Batik</string>
+    <string name="custom">Customization</string>
+    <string name="namabatik">Nama Batik :</string>
+    <string name="desc">Deskripsi : </string>
+    <string name="upload">Upload Image</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="mode">Mode</string>
+    <string name="lightmode">Dark Mode</string>
+    <string name="ch_language">Change Language</string>
+    <string name="isinotecustom">This clothes uses the</string>
+    <string name="batik_patern">batik Pattern</string>
+    <string name="save">Save</string>
+    <string name="isinote2">Make sure the photo captures the batik pattern you want, otherwise the result will not be satisfactory</string>
+    <string name="bookmark_added">Bookmark added!</string>
+    <string name="bookmark_removed">Bookmark removed!</string>
+    <string name="article">Article</string>
+    <string name="konfirmasi_logout">Confirm Logout</string>
+    <string name="yakin_logout">" Are you sure you want to log out?"</string>
+    <string name="Ya">Yes</string>
+    <string name="No">No</string>
+    <string name="detail_customization">Detail Customization</string>
+    <string name="delete">Delete</string>
+    <string name="for_you">For You</string>
+</resources>

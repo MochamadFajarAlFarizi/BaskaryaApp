@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430963396124",
+    "firebase_url": "https://baskaryaapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baskaryaapp",
+    "storage_bucket": "baskaryaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430963396124:android:b1f6a91780fb1cd3bf99d9",
+        "android_client_info": {
+          "package_name": "com.example.baskaryaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430963396124-3ftc9nnvu1ejnp90gv0flspuos1pvs58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baskaryaapp",
+            "certificate_hash": "aaa56107f8216c3423747ac4c700ede5b2db6642"
+          }
+        },
+        {
+          "client_id": "430963396124-vde44cir5mg74vb88m74cl7a0kfpd61n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgpbjJvRiH2YC9POy9APAs9jm-41omSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430963396124-vde44cir5mg74vb88m74cl7a0kfpd61n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
